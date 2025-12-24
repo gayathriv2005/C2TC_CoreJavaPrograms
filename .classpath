@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="C80_MCE/src"/>
+	<classpathentry kind="src" path="Interface Programs/Batch_C77/src"/>
+	<classpathentry kind="src" path="MultipleInheritance/C80_MCE/src"/>
+	<classpathentry kind="src" path="Non-AccessModifiers/C80_MCE/src"/>
+	<classpathentry kind="src" path="Oops(Encapsulation &amp; Abstraction)/C80_MCE/src"/>
+	<classpathentry kind="src" path="Oops(Inheritance)/C80_MCE/src"/>
+	<classpathentry kind="src" path="Oops(Polumorphism)/C80_MCE/src"/>
+	<classpathentry kind="src" path="TryCatchCodeExample/C80_MCE/src"/>
+	<classpathentry kind="src" path="Wrapper Class Program/Batch_C77/src"/>
+	<classpathentry kind="output" path="C80_MCE/bin"/>
+</classpath>
